@@ -190,7 +190,7 @@ class Ui_MainWindow(object):
     def display_message(self, message):
         self.listWidget.addItem(message)
         print("\a")
-"""
+
     def client_send_message(self):
         ip = self.textEdit.toPlainText()
 
@@ -214,7 +214,7 @@ class Ui_MainWindow(object):
             msg_box("Connection Refused", "Address is currently unavailable")
 
         c.close()
-"""
+
 
 if __name__ == "__main__":
     import sys
