@@ -3,3 +3,4 @@ improve message sending.
 Next step is to have server source to run on Raspberry Pi so users can connect from separate machines.
 # Bounty fix for issue [NUMBER]
 # Bounty fix for issue #8
+#Testing more stuff
