@@ -1,0 +1,4 @@
+Hello from the chat server!
+
+Sample message:
+"I asked the server for wisdom, and it replied: please hydrate, commit often, and never trust a cache before coffee."
